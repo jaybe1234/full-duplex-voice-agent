@@ -1,1 +1,3 @@
-# full-duplex-voice-agent
+# Iris
+
+Full duplex voice agent implemented in Rust
